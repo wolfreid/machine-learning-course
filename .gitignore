@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+*.xlsx
+*.csv
+dsmlcj-22-data-visualization-fundamentals-with-python/project/Exploring Mushrooms/__MACOSX/._Exploring Mushrooms
